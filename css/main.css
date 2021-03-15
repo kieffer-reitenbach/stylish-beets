@@ -31,9 +31,12 @@ nav a {
   text-decoration: none;
 }
 
-
 a:hover {
   color: #3f1622;
   border-bottom: 3px;
   text-decoration: none;
+}
+
+img {
+  width: 100%;
 }
