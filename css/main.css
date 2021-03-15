@@ -10,8 +10,8 @@ html {
 }
 
 /*
-font-family: 'PT Sans', sans-serif;
-font-family: 'PT Serif', serif;
+font-family: "PT Sans", sans-serif;
+font-family: "PT Serif", serif;
 */
 
 h1 {
@@ -28,6 +28,7 @@ nav ol li {
 
 nav a {
   color: #8f2440;
+  text-decoration: none;
 }
 
 
